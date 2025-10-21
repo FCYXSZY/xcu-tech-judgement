@@ -1,8 +1,9 @@
-# Xcu-tech-judgement
+# 📄 Xcu-tech-judgement
 
-# XCU ACM 集训队技术组 - 新手任务
+## XCU ACM 集训队技术组 - 新手任务
 
 > **考核任务：**
+>   
 > 用 Markdown 写一份「自我介绍」，并通过 Pull Request 的方式，提交到本仓库。
 
 ---
